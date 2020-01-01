@@ -1,0 +1,74 @@
+Initialize engine version: 4.7.0f1 (9c73fd3cda99)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 650M   (ID=0xfd1)
+    Vendor:   NVIDIA
+    VRAM:     1990 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Dave\Documents\repo\Unity\Block Breaker\bb_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Dave\Documents\repo\Unity\Block Breaker\bb_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Dave\Documents\repo\Unity\Block Breaker\bb_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Dave\Documents\repo\Unity\Block Breaker\bb_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Dave\Documents\repo\Unity\Block Breaker\bb_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Dave\Documents\repo\Unity\Block Breaker\bb_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.084 seconds
+desktop: 1920x1080 59Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: C:\Users\Dave\Documents\repo\Unity\Block Breaker\bb_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Dave\Documents\repo\Unity\Block Breaker\bb_Data\Managed\System.dll (this message is harmless)
+Level load requested for Level_01
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+UnloadTime: 4.965256 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 227.
+Total: 0.541384 ms (FindLiveObjects: 0.012401 ms CreateObjectMapping: 0.006414 ms MarkObjects: 0.100921 ms  DeleteObjects: 0.003421 ms)
+
+UnloadTime: 0.325001 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 310.
+Total: 0.548226 ms (FindLiveObjects: 0.011546 ms CreateObjectMapping: 0.006842 ms MarkObjects: 0.106908 ms  DeleteObjects: 0.006414 ms)
+
+UnloadTime: 0.512733 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 427.
+Total: 0.910004 ms (FindLiveObjects: 0.022664 ms CreateObjectMapping: 0.015822 ms MarkObjects: 0.221514 ms  DeleteObjects: 0.015394 ms)
+
+Trigger
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Level load requested for Lose
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+UnloadTime: 0.641878 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 141.
+Total: 1.033591 ms (FindLiveObjects: 0.008980 ms CreateObjectMapping: 0.009407 ms MarkObjects: 0.132994 ms  DeleteObjects: 0.311317 ms)
+
+Level load requested for Start
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+UnloadTime: 0.407535 ms
+Destroyed Music Player
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 154.
+Total: 0.510594 ms (FindLiveObjects: 0.008125 ms CreateObjectMapping: 0.006414 ms MarkObjects: 0.112895 ms  DeleteObjects: 0.002993 ms)
+
+Quit game
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
